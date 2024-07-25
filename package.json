@@ -1,6 +1,6 @@
 {
-  "name": "@libsql/kysely-libsql",
-  "version": "0.4.0",
+  "name": "@barakcodes/kysely-libsql",
+  "version": "0.0.1",
   "keywords": [
     "hrana",
     "libsql",
@@ -11,7 +11,7 @@
   "description": "Kysely dialect for libSQL",
   "repository": {
     "type": "git",
-    "url": "github:libsql/kysely-libsql"
+    "url": "github:barakcodes/kysely-libsql"
   },
   "homepage": "https://github.com/libsql/kysely-libsql",
   "authors": [

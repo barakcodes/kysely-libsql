@@ -1,3 +1,6 @@
+> This is a fork of the main repo, the only difference is that we use the `client` version of  libsql client instead of the default so we 
+can use this on serverless environments like AWS Lambda. Mitigating [this issue](https://github.com/tursodatabase/libsql-client-ts/issues/112) 
+
 # kysely-libsql
 
 A [Kysely][kysely] dialect for [libSQL/sqld][sqld], using the [Hrana][hrana-client-ts] protocol over a WebSocket.

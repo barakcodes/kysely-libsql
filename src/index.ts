@@ -1,7 +1,7 @@
-import * as libsql from "@libsql/client";
+import * as libsql from "@libsql/client/web";
 import * as kysely from "kysely";
 
-export * as libsql from "@libsql/client";
+export * as libsql from "@libsql/client/web";
 
 export type LibsqlDialectConfig =
     | {
